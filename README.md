@@ -1,6 +1,6 @@
 # Container Flow Chart
 
-![Container Flow Chart](https://user-images.githubusercontent.com/53675680/90285200-6eb7c800-de41-11ea-813b-f694da434e21.png)
+![Container Flow Chart](img/containers_flow_chart-cpp.png)
 
 ## Download
 Download your own copy of the Editable Container Flow Chart [here](https://drive.google.com/file/d/1wAUsTIeKRgSfo0m-3rR4P6Boi3FuixEk/view).
