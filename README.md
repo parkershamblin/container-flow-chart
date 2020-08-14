@@ -6,7 +6,7 @@
 Download your own copy of the Editable Container Flow Chart [here](https://drive.google.com/file/d/1wAUsTIeKRgSfo0m-3rR4P6Boi3FuixEk/view).
 
 ## Summary
-This Container Flow Chart orginates from the stackoverflow user [Mikael Persson](https://meta.stackoverflow.com/users/491645/mikael-persson) and is mentioned in this [post](https://stackoverflow.com/questions/471432/in-which-scenario-do-i-use-a-particular-stl-container/22671607#22671607). After I noticed that the Flow Chart didn't have an edible version, I decided to create one so that programmers, like myself, could modify it with ease.
+This Container Flow Chart orginates from the stackoverflow user [Mikael Persson](https://meta.stackoverflow.com/users/491645/mikael-persson) and is mentioned in this [post](https://stackoverflow.com/questions/471432/in-which-scenario-do-i-use-a-particular-stl-container/22671607#22671607). After I noticed that the Flow Chart didn't have an editable version, I decided to create one so that programmers, like myself, could modify it with ease.
 
 ## Contributions
 Any implementations of non-existing paths or alternative / new data structures are highly appreciated! Also improvements to pre-existing paths and data structures are highly welcome!
